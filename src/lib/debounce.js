@@ -9,4 +9,4 @@ const createDebounce = (fn, t) => {
     }
 }
 
-export default createDebounce;
+export default createrDebounce;
