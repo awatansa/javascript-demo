@@ -8,5 +8,5 @@ const createDebounce = (fn, t) => {
         }, t);
     }
 }
-export honolulu;
+
 export default createDebounce;
